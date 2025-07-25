@@ -72,6 +72,14 @@ Split expenses between yourself and a friend:
 
 ![screenshot](assets/images/screenshot.png)
 
+## Credits
+
+This project was created by help of:  
+**[The Ultimate React Course 2025: React, Next.js, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/?couponCode=KEEPLEARNING)**
+
+- Master modern React from beginner to advanced! Next.js, Context API, React Query, Redux, Tailwind, advanced patterns
+- Created by [Jonas Schmedtmann]
+
 ## License
 
 This project is licensed under the MIT License.  
