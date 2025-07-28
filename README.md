@@ -4,15 +4,15 @@
 
 **Eat and Split** is a clean, interactive React app designed to help users fairly and quickly split shared bills with a friend. Whether you’re dining out, traveling, or just sharing everyday expenses, this app helps track who owes what with a few simple inputs.
 
-### 💡 Motivation
+### Motivation
 
 The inspiration behind this project was to build something practical and immediately useful while deepening my understanding of modern React concepts. I wanted to challenge myself with building a responsive UI and managing shared state between components effectively.
 
-### 🚀 Why I Built It
+### Why I Built It
 
 I built _Eat and Split_ to solidify my React knowledge beyond the basics. It was important to work on a project that mimicked real-world logic and user interactions—such as form validation, controlled components, and conditional rendering—while keeping the code modular and clean.
 
-### 🧰 What Problem It Solves
+### What Problem It Solves
 
 Splitting a bill can often be a confusing or awkward process. This app removes the hassle by clearly calculating who owes whom based on user input:
 
@@ -22,7 +22,7 @@ Splitting a bill can often be a confusing or awkward process. This app removes t
 
 It ensures that overpayments are not allowed and keeps the UX friendly and transparent.
 
-### 📚 What I Learned
+### What I Learned
 
 Through this project, I learned how to:
 
